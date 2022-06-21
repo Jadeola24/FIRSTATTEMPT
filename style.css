@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+ }
+ 
+
+}
+ body{
+    font-size: 15px;
+    flex-direction: row;
+    background-color: hsl(0, 0%, 95%);
+ }
+ 
+ header{
+    padding-bottom: 20px;
+ }
+ main{
+    font-size: 15px;
+    width: 1440px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100;
+    flex-direction: row;
+ } 
+ h2{
+    color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+ }
+ p{
+    padding-top: 20px;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+ }
+
+ .ja{
+    color: hsl(31, 77%, 52%);
+ }
+ 
+ .jad{
+    color:hsl(184, 100%, 22%);
+ }
+ 
+ .jade{
+    color:hsl(179, 100%, 13%);
+ }
+
+ button{
+    border-radius: 10px;
+    padding: 10px;
+    border: 0px;
+    color: hsl(0, 0%, 95%);
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+ }
+
+.sedans{
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+    padding: 50px;
+    float:left; 
+    width:250px;
+    height:500px;
+    background-color: hsl(31, 77%, 52%);
+}
+
+.SUVS{
+    padding: 50px;
+    float:left; 
+    width: 250px;
+    height: 500px;
+    background-color: hsl(184, 100%, 22%); 
+}
+
+.LUXURY{
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+    padding: 50px;
+    float:left; 
+    width: 250px;
+    height:500px;
+    background-color: hsl(179, 100%, 13%);
+}
+
+.j{
+    margin-bottom: 100px;
+    color: hsl(0, 0%, 100%, 0.75);  
+}
+
+.jo{
+    
+    margin-bottom: 100px;
+    color: hsl(0, 0%, 100%, 0.75);  
+}
+
+.joy{
+    margin-bottom: 100px;
+    color: hsl(0, 0%, 100%, 0.75);  
+}
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
